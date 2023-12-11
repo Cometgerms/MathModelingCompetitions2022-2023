@@ -15,7 +15,7 @@ This repository includes codes from the following competitions:
 
 ## Achievements
 
-My achievements in these contests:
+Our achievements in these contests:
 - Received an 'M' award in the HiMCM.
 - Qualified for advancement in the IMMC China Region.
 - Awarded an 'F' prize in the IMMC Global competition. I also had the opportunity to present in Hong Kong for the final defense round.
