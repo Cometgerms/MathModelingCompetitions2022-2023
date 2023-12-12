@@ -17,8 +17,11 @@ This repository includes codes from the following competitions:
 
 Our achievements in these contests:
 - Received an 'M' award in the HiMCM.
+  ![HiMCM Certification](\HiMCM\Certi.png "HiMCM Certification")
 - Qualified for advancement in the IMMC China Region.
+    ![IMMC China Region Certification](\IMMC_China\immcChina.png "IMMC China Region Certification")
 - Awarded an 'F' prize in the IMMC Global competition. I also had the opportunity to present in Hong Kong for the final defense round.
+    ![IMMC Global Certification](\IMMC_International\immcInter.png "IMMC Global Certification")
 
 ## Reflections and Learning
 
